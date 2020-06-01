@@ -40,11 +40,11 @@ features={
         })
 ```
 
-## How to set tasks
+## How to set task settings
 Configurations of tasks and views are in the `const.py`, where a sample config is given. 
 
 
-## How to run
+## How to run M2GRL
 1. run command `python reader.py` to generate example data.
 
 2. run command `python local_main.py` to run the model.
